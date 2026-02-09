@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Compliance validation at key checkpoints (if applicable)
+- Quality Champion oversight of testing strategy and standards
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -29,12 +31,25 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- **Level 1**: Team-level triage in daily standup (Agile Coach may facilitate)
+- **Level 2**: PM escalates to Product Lead and dependent teams
+- **Level 3**: Sponsor-level escalation for business-impacting issues
+- **Compliance/Security**: Immediate escalation to Compliance Analyst or Security team
+
+> See [Risk Management & Communication](octoacme-risks-and-communication.md) for detailed escalation paths and role-specific escalations.
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Quality standards defined and communicated
+- [ ] Compliance checkpoints scheduled (if applicable)
+- [ ] Team has access to needed resources and documentation
+
+---
+
+## Related Documents
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) - See all role descriptions
+- [OctoAcme Risk Management & Communication](octoacme-risks-and-communication.md) - See escalation paths
+- [OctoAcme Compliance Checklist](octoacme-compliance-checklist.md)
