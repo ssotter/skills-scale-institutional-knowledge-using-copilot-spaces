@@ -6,7 +6,9 @@ Welcome to OctoAcme's project management documentation hub! This collection of p
 
 OctoAcme follows a structured yet iterative approach to project management that emphasizes customer value, clear ownership, and continuous improvement. Our **five-phase lifecycle** guides every project from initial concept through post-release learning: **Initiation** establishes the problem statement and stakeholders; **Planning** defines scope, resources, and milestones; **Execution** focuses on building, testing, and iterating; **Release** handles deployment and verification; and **Close & Retrospective** captures learnings for future projects. Each phase builds on clear principles—customer-first thinking, iterative delivery, data-informed decisions, and psychological safety—that foster both excellence and innovation.
 
-Our project teams are structured around **five core roles** that work collaboratively to deliver success. The **Project Manager (PM)** coordinates delivery schedules, manages risks, and facilitates communication across the team. The **Product Manager (PdM)** defines customer outcomes, prioritizes the backlog, and measures impact through metrics and user feedback. **Developers** implement features with a focus on quality, testability, and maintainability, while **QA/Testing** validates that solutions meet acceptance criteria and quality standards. Finally, **Stakeholders** provide strategic inputs, approvals, and feedback throughout the project lifecycle. This clear delineation of responsibilities ensures accountability while promoting cross-functional collaboration.
+Our project teams are structured around **core and cross-functional roles** that work collaboratively to deliver success. The **Project Manager (PM)** coordinates delivery schedules, manages risks, and facilitates communication across the team. The **Product Manager (PdM)** defines customer outcomes, prioritizes the backlog, and measures impact through metrics and user feedback. The **Product Owner** maintains the product vision, sets priorities, and ensures alignment between business goals and project deliverables. **Developers** implement features with a focus on quality, testability, and maintainability, while **QA/Testing** and **Quality Champions** validate that solutions meet acceptance criteria and quality standards.
+
+Supporting these core roles, we have cross-functional specialists who bring expertise to specific areas: **Business Analysts** bridge business needs with technical solutions, **Agile Coaches** guide teams in agile practices and continuous improvement, **Change Managers** facilitate smooth transitions during process or tool changes, and **Compliance Analysts** ensure regulatory and policy requirements are met throughout the project lifecycle. Finally, **Stakeholders** provide strategic inputs, approvals, and feedback throughout the project lifecycle. This clear delineation of responsibilities ensures accountability while promoting cross-functional collaboration.
 
 Communication and transparency are central to our execution model. Teams maintain a **regular cadence** of touchpoints: weekly syncs between PM and PdM align on priorities and risks, twice-weekly standups keep the delivery team coordinated on progress and blockers, and monthly stakeholder updates ensure visibility into project health and outcomes. Ad-hoc escalations are encouraged when risks or blockers emerge, reinforcing our culture of proactive problem-solving. This rhythm keeps everyone informed while minimizing overhead and context-switching.
 
@@ -29,9 +31,16 @@ Quality and velocity go hand-in-hand at OctoAcme through robust **execution and 
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — How to conduct effective retrospectives, capture lessons learned, and implement action items to continuously improve team practices.
 
 ### Cross-Cutting Concerns
-- **[Risks & Communication](octoacme-risks-and-communication.md)** — Strategies for identifying and managing project risks, escalation paths, stakeholder communication templates, and status reporting best practices.
+- **[Risks & Communication](octoacme-risks-and-communication.md)** — Strategies for identifying and managing project risks, escalation paths, role handoffs and transitions, stakeholder communication templates, and status reporting best practices.
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of each role's responsibilities, goals, and communication patterns. Includes developers, product managers, project managers, QA/testing, and stakeholders.
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of each role's responsibilities, goals, and communication patterns. Includes core delivery roles (developers, product managers, project managers) and cross-functional roles (product owner, business analyst, agile coach, quality champion, change manager, compliance analyst).
+
+### Supporting Templates & Checklists
+- **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)** — Comprehensive onboarding guide for new team members, with general and role-specific checklists to ensure smooth integration into projects.
+
+- **[Change Management Template](octoacme-change-management-template.md)** — Structured approach for planning and executing process or tool changes, including impact assessment, communication plans, and adoption strategies.
+
+- **[Compliance Checklist](octoacme-compliance-checklist.md)** — Guide for ensuring projects meet regulatory, security, and policy requirements throughout the project lifecycle.
 
 ## Getting Started
 
@@ -43,6 +52,9 @@ Quality and velocity go hand-in-hand at OctoAcme through robust **execution and 
    - Managing risks or stakeholder communication? See [Risks & Communication](octoacme-risks-and-communication.md)
    - Questions about daily workflows or quality practices? See [Execution & Tracking](octoacme-execution-and-tracking.md)
    - Understanding role expectations? See [Roles & Personas](octoacme-roles-and-personas.md)
+   - Onboarding a new team member? Use the [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)
+   - Managing a process change? Use the [Change Management Template](octoacme-change-management-template.md)
+   - Ensuring compliance? See the [Compliance Checklist](octoacme-compliance-checklist.md)
 
 ## Questions or Feedback?
 
